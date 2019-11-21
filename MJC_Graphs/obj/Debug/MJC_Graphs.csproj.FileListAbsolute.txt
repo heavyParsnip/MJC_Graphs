@@ -1,0 +1,7 @@
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Graphs\MJC_Graphs\bin\Debug\MJC_Graphs.exe.config
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Graphs\MJC_Graphs\bin\Debug\MJC_Graphs.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Graphs\MJC_Graphs\bin\Debug\MJC_Graphs.pdb
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Graphs\MJC_Graphs\obj\Debug\MJC_Graphs.csprojAssemblyReference.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Graphs\MJC_Graphs\obj\Debug\MJC_Graphs.csproj.CoreCompileInputs.cache
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Graphs\MJC_Graphs\obj\Debug\MJC_Graphs.exe
+C:\Users\kimbe\OneDrive\Documents\Visual Studio 2017\Projects\MJC_Graphs\MJC_Graphs\obj\Debug\MJC_Graphs.pdb
